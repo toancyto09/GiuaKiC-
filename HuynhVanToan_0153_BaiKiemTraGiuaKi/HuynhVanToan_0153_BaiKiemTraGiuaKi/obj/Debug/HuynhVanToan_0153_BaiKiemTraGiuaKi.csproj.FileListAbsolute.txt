@@ -1,0 +1,7 @@
+C:\Users\HUYNH VAN TOAN\source\repos\HuynhVanToan_0153_BaiKiemTraGiuaKi\HuynhVanToan_0153_BaiKiemTraGiuaKi\bin\Debug\HuynhVanToan_0153_BaiKiemTraGiuaKi.exe.config
+C:\Users\HUYNH VAN TOAN\source\repos\HuynhVanToan_0153_BaiKiemTraGiuaKi\HuynhVanToan_0153_BaiKiemTraGiuaKi\bin\Debug\HuynhVanToan_0153_BaiKiemTraGiuaKi.exe
+C:\Users\HUYNH VAN TOAN\source\repos\HuynhVanToan_0153_BaiKiemTraGiuaKi\HuynhVanToan_0153_BaiKiemTraGiuaKi\bin\Debug\HuynhVanToan_0153_BaiKiemTraGiuaKi.pdb
+C:\Users\HUYNH VAN TOAN\source\repos\HuynhVanToan_0153_BaiKiemTraGiuaKi\HuynhVanToan_0153_BaiKiemTraGiuaKi\obj\Debug\HuynhVanToan_0153_BaiKiemTraGiuaKi.csproj.AssemblyReference.cache
+C:\Users\HUYNH VAN TOAN\source\repos\HuynhVanToan_0153_BaiKiemTraGiuaKi\HuynhVanToan_0153_BaiKiemTraGiuaKi\obj\Debug\HuynhVanToan_0153_BaiKiemTraGiuaKi.csproj.CoreCompileInputs.cache
+C:\Users\HUYNH VAN TOAN\source\repos\HuynhVanToan_0153_BaiKiemTraGiuaKi\HuynhVanToan_0153_BaiKiemTraGiuaKi\obj\Debug\HuynhVanToan_0153_BaiKiemTraGiuaKi.exe
+C:\Users\HUYNH VAN TOAN\source\repos\HuynhVanToan_0153_BaiKiemTraGiuaKi\HuynhVanToan_0153_BaiKiemTraGiuaKi\obj\Debug\HuynhVanToan_0153_BaiKiemTraGiuaKi.pdb
